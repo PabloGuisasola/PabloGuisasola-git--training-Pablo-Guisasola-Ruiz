@@ -1,1 +1,3 @@
 Primera línea
+añado mas contenido a mi fichero
+Seguimos avanzando en la practica con git
