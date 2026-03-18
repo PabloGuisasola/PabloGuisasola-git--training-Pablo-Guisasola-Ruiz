@@ -1,9 +1,2 @@
-Primera línea
-
-añado mas contenido a mi fichero
-Seguimos avanzando en la practica con git
-Cuarta linea (editada desde intelliJ)
-Esto es una nueva funcionalidad que estoy creando en una nueva y las otras líneas no tienen sentido ahora,
-PabloGuisasolRuiz
-Modificando desde IntelliJ
+Ahora estamos en la primera linea del fichero pero en la nueva rama feature/PabloGuisasolaRuiz
 
